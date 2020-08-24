@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "31949003237",
+    "firebase_url": "https://gpstrackservice-73c66.firebaseio.com",
+    "project_id": "gpstrackservice-73c66",
+    "storage_bucket": "gpstrackservice-73c66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31949003237:android:a8a6bece89c93d132b770c",
+        "android_client_info": {
+          "package_name": "com.pranav.gpsupdateservice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31949003237-t8t77c2bqe7tjj4taendi09fjavmnskl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pranav.gpsupdateservice",
+            "certificate_hash": "f82deebc70164765ccd57bb738c5fe54d98fcbc8"
+          }
+        },
+        {
+          "client_id": "31949003237-nntcgk28fa2ffo36q8s2pnbc5jbg3aoq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr3m7D5yADIhwPc_NSgwkz3nueypMxvNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31949003237-nntcgk28fa2ffo36q8s2pnbc5jbg3aoq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
